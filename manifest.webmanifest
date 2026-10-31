@@ -1,0 +1,18 @@
+{
+  "name": "ChemClass Studio – Phòng thi Hóa học",
+  "short_name": "ChemClass",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#102846",
+  "description": "Ứng dụng quản lý lớp học và phòng thi Hóa học – bản dùng thử lưu dữ liệu cục bộ.",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

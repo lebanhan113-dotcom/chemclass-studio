@@ -1,0 +1,13 @@
+CHEMCLASS STUDIO - XUAT BAN LEN GITHUB PAGES
+
+1. Dang nhap https://github.com/new, tao repository Public: chemclass-studio.
+2. Giai nen ZIP. Tai NOI DUNG thu muc (khong phai file ZIP) vao repository.
+3. Vao Settings > Pages > Source: GitHub Actions.
+4. Vao Actions va xem workflow 'Deploy ChemClass Studio to GitHub Pages'.
+5. Link sau khi deploy: https://TEN-TAI-KHOAN.github.io/chemclass-studio/
+6. Trang thi: https://TEN-TAI-KHOAN.github.io/chemclass-studio/exam.html?portal=student
+
+NEU KHONG TAI LEN DUOC .github/workflows:
+Settings > Pages > Source: Deploy from a branch > main > /(root) > Save.
+
+LUU Y: Website tinh, khong dong bo ket qua thi; khong an toan de to chuc ky thi chinh thuc.
